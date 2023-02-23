@@ -1,0 +1,10 @@
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.exe.config
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.exe
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.pdb
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.exe
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.pdb
