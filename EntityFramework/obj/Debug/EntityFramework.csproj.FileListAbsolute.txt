@@ -8,3 +8,12 @@ E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\
 E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
 E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.exe
 E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.pdb
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.dll
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.xml
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\bin\Debug\zh-Hant\EntityFramework.resources.dll
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.Form1.resources
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.ViewFrom.resources
+E:\跨域黑客\C#\Entity Framework\EntityFramework20230223\EntityFramework\obj\Debug\EntityFramework.Form2.resources
